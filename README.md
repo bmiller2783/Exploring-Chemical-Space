@@ -2,7 +2,7 @@
 
 An interactive Python-based web application for exploring chemical space
 
-* continuously updating *
+*continuously updating*
 
 ## Current Features
 - Dimensionality Rduction Algorithms
