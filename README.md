@@ -5,9 +5,9 @@ An interactive Python-based web application for exploring chemical space
 *continuously updating*
 
 ## Current Features
-- Dimensionality Rduction Algorithms
+- Toggle between dimensionality reduction algorithms
   - PCA, UMAP, tSNE
-- Clustering Algorithms
+- Toggle between clustering algorithms
   - K-Means, DBSCAN, HDBSCAN
  
 *coming soon*
